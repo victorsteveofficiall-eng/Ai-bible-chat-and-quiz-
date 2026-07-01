@@ -1,0 +1,6 @@
+{
+  "name": "AI Chat and Bible Quiz",
+  "description": "A beautiful interactive scripture application featuring AI Bible Chat, comprehensive King James James Bible reader, quizzes, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
